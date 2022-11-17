@@ -65,3 +65,13 @@ header p {
 strong {
   color: rgb(36, 78, 36);
 }
+.one {
+  display: flex;
+  justify-content: space-around;
+}
+ div h1 {
+  font-size: 40px;
+}
+ div p {
+  font-size: 25px;
+}
