@@ -40,3 +40,26 @@ nav ul li a:hover {
   border: 2px solid white;
   cursor: pointer;
 }
+header {
+  background-image: url(./houseplant.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  top: 0;
+}
+header h1 {
+ font-size: 60px;
+}
+header p {
+  font-size: 40px;
+  margin-top: -10px;
+  color: rgb(36, 78, 36);
+}
+strong {
+  color: rgb(36, 78, 36);
+}
