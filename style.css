@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2? family= Rubik+Distressed & display=swap');
 * {
   box-sizing: border-box;
 }
@@ -5,7 +6,7 @@ body {
   margin: 0;
 }
 nav {
-  background-color: green;
+  background-color:rgb(36, 78, 36);
   height: 60px;
   position: sticky;
   top:0px;
@@ -26,7 +27,7 @@ nav ul li a {
   text-decoration: none;
   color: white;
   font-size: 20px;
-  font-family: 'Roboto', sans-serif;
+  font-family:  «Rubik Distressed»;
   padding-left: 15px;
   padding-right: 15px;
   padding-top: 15px;
@@ -34,7 +35,7 @@ nav ul li a {
   display: inline-block;
 } 
 nav ul li a:hover {
-  background-color: green;
+  background-color: rgb(36, 78, 36);
   color:white ;
   transition: all 500ms;
   border: 2px solid white;
@@ -59,6 +60,7 @@ header p {
   font-size: 40px;
   margin-top: -10px;
   color: rgb(36, 78, 36);
+  font-family:  «Rubik Distressed»;
 }
 strong {
   color: rgb(36, 78, 36);
