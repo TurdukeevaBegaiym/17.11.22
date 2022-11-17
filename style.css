@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2? family= Rubik+Distressed & display=swap');
+@import url('https://fonts.googleapis.com/css2? family= Merriweather+Sans:wght@500 & display=swap');
 * {
   box-sizing: border-box;
 }
@@ -74,4 +75,20 @@ strong {
 }
  div p {
   font-size: 25px;
+}
+
+.two {
+  display: flex;
+  justify-content: space-around;
+}
+.two img{
+  height: 100px;
+}
+.my h1 {
+  text-align: center;
+  font-family: «Merriweather San;
+}
+.two p {
+  text-align: center;
+  margin-left: -30px;
 }
